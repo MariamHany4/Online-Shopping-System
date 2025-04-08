@@ -18,4 +18,7 @@ The Online Shopping System is a Java application that allows users to browse pro
 
 •	**Admin Controls:** Manage products and view order details.
 
+## **📁 File Structure**
+![Files details_page-0001](https://github.com/user-attachments/assets/b8c06c03-467d-4381-8bd5-addf5a7ba703)
+
 
